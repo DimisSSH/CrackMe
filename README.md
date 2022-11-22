@@ -6,4 +6,4 @@ A C# .NET File, given for ppl to try to crack it!
 
 
 
-If you crack it, lmk in Discord: Dimis#1337 or Telegram: DimisSSH
+If you crack it, lmk in Discord: Dimis#1821 or Telegram: DimisSSH
